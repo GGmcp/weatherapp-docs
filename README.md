@@ -14,6 +14,6 @@ This app lets you log, view, and manage weather forecast records. You need an ac
 
 ## Quick links
 
-* [Getting Started](getting-started/README.md)
-* [Managing Forecasts](weather/README.md)
-* [Account](account/README.md)
+* [Getting Started](getting-started/)
+* [Managing Forecasts](weather/)
+* [Account](account/)
